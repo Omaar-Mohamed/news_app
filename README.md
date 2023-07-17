@@ -6,6 +6,8 @@ Demonstrated proficiency in handling API endpoints and data manipulation.
 Light and dark modes
 
 ## ScreenShots
+![image](https://github.com/Omaar-Mohamed/news_app/assets/102541769/b4f13837-c1d8-4f6a-b230-f811d6ef92ec)
+
 
 ![1](https://github.com/Omaar-Mohamed/news_app/assets/102541769/0190f274-cbac-416c-9a56-0dc810eb1904)
 light business news
